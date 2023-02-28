@@ -1,0 +1,1 @@
+script to convert CSS colors in the hexadecimal notation into the RGBa notation following [w3 specifications](https://www.w3.org/TR/css-color-4/#hex-notation)
